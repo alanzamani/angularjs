@@ -1,0 +1,9 @@
+<div class="span4">
+    <h4>All Destinations:</h4>
+    <hr>
+    <li ng-repeat="airport in airports">
+        <a ng-href="#/airports/{{airport.code}}" ng-click="setAirport(airport.code)">
+            {{airport.code | uppercase}} - {{airport.city}}</a>
+    </li>
+</div>
+

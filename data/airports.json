@@ -1,0 +1,235 @@
+{
+	"ABD": {
+		"code": "ABD",
+		"name": "Abadan Airport",
+		"city": "Abadan",
+		"destinations": [
+			"THR",
+			"SYZ",
+			"MHD",
+			"IFN"
+		]
+	},
+	"AVZ": {
+		"code": "AVZ",
+		"name": "Ahvaz International Airport",
+		"city": "Ahvaz",
+		"destinations": [
+			"THR",
+			"SYZ",
+			"MHD",
+			"IFN",
+			"KHK",
+			"GSM",
+			"PGV",
+			"BND",
+			"KIH"
+		]
+	},
+	"ADU": {
+		"code": "ADU",
+		"name": "Ardabil Airport",
+		"city": "Ardabil",
+		"destinations": [
+			"THR",
+			"IFN",
+			"MHD",
+			"KIH"
+		]
+	},
+	"PGV": {
+		"code": "PGV",
+		"name": "Persian Gulf Airport",
+		"city": "Asalouyeh",
+		"destinations": [
+			"THR",
+			"SYZ",
+			"IFN",
+			"MHD",
+			"AVZ"
+		]
+	},
+	"BBL": {
+		"code": "BBL",
+		"name": "Babolsar Airport",
+		"city": "Babolsar",
+		"destinations": [
+			"THR",
+			"IFN",
+			"SYZ"
+		]
+	},
+	"BND": {
+		"code": "BND",
+		"name": "Bandar Abbas International Airport",
+		"city": "Bandar Abbas",
+		"destinations": [
+			"THR",
+			"SYZ",
+			"MHD",
+			"AVZ",
+			"KIH"
+		]
+	},
+	"BUZ": {
+		"code": "BUZ",
+		"name": "Bushehr Airport",
+		"city": "Bushehr",
+		"destinations": [
+			"THR",
+			"SYZ",
+			"MHD"
+		]
+	},
+	"ZBR": {
+		"code": "ZBR",
+		"name": "Konarak Airport",
+		"city": "Chabahar",
+		"destinations": [
+			"THR",
+			"MHD"
+		]
+	},
+	"GBT": {
+		"code": "GBT",
+		"name": "Gorgan Airport",
+		"city": "Gorgan",
+		"destinations": [
+			"THR",
+			"MHD"
+		]
+	},
+	"IFN": {
+		"code": "IFN",
+		"name": "Isfahan Intercontinental Airport",
+		"city": "Isfahan",
+		"destinations": [
+			"THR",
+			"MHD",
+			"ABD",
+			"AVZ",
+			"BBL",
+			"PGV",
+			"ADU",
+			"KHK",
+			"KIH",
+			"SRY"
+		]
+	},
+	"KER": {
+		"code": "KER",
+		"name": "Kerman Airport",
+		"city": "Kerman",
+		"destinations": [
+			"THR",
+			"MHD",
+			"KIH"
+		]
+	},
+	"KHK": {
+		"code": "KHK",
+		"name": "Kharg Airport",
+		"city": "Kharg Island",
+		"destinations": [
+			"THR",
+			"SYZ",
+			"IFN",
+			"MHD"
+		]
+	},
+	"KIH": {
+		"code": "KIH",
+		"name": "Kish Airport",
+		"city": "Kish Island",
+		"destinations": [
+			"SYZ",
+			"THR",
+			"IFN",
+			"MHD",
+			"ADU",
+			"AVZ",
+			"KER"
+		]
+	},
+	"MHD": {
+		"code": "MHD",
+		"name": "Mashhad International Airport",
+		"city": "Mashhad",
+		"destinations": [
+			"THR",
+			"SYZ",
+			"IFN",
+			"KIH",
+			"KHK",
+			"KER",
+			"GBT",
+			"ZBR",
+			"BUZ",
+			"BND",
+			"PGV",
+			"ADU",
+			"AVZ",
+			"ABD"
+		]
+	},
+	"GSM": {
+		"code": "GSM",
+		"name": "Qeshm Airport",
+		"city": "Qeshm Island",
+		"destinations": [
+			"THR",
+			"SYZ"
+		]
+	},
+	"SRY": {
+		"code": "SRY",
+		"name": "Dasht-e Naz Airport",
+		"city": "Sari",
+		"destinations": [
+			"THR",
+			"IFN"
+		]
+	},
+	"THR": {
+		"code": "THR",
+		"name": "Mehrabad International Airport",
+		"city": "Tehran",
+		"destinations": [
+			"MHD",
+			"SYZ",
+			"IFN",
+			"SRY",
+			"GSM",
+			"KIH",
+			"KHK",
+			"KER",
+			"GBT",
+			"ZBR",
+			"BUZ",
+			"BND",
+			"BBL",
+			"PGV",
+			"AUD",
+			"AVZ",
+			"ABD"
+		]
+	},
+	"SYZ": {
+		"code": "SYZ",
+		"name": "Shiraz Airport",
+		"city": "Shiraz",
+		"destinations": [
+			"THR",
+			"GSM",
+			"MHD",
+			"KIH",
+			"KHK",
+			"BUZ",
+			"BND",
+			"BBL",
+			"PGV",
+			"AVZ",
+			"ABD"
+		]
+	}
+}

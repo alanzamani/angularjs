@@ -1,0 +1,41 @@
+<h4>Search the flights:</h4>
+<div>
+    <form class="form-inline">
+        <label for="from">From: </label>
+        <input type="text" class="span2" style="text-transform: uppercase" id="from" placeholder="Origin code" ng-model="search.origin">
+        <label for="to">TO: </label>
+        <input type="text" class="span2" style="text-transform: uppercase" id="to" placeholder="Destination code" ng-model="search.destination">
+    </form>
+</div>
+<div>
+    <table class="table table-hover">
+        <thead>
+        <tr>
+            <th>Fligth No.</th>
+            <th>From</th>
+            <th>Origin</th>
+            <th>To</th>
+            <th>Destination</th>
+            <th>Price</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="flight in flights | filter:search">
+            <td>{{flight.number}}</td>
+                <td><a ng-href="#/airports/{{flight.origin}}">
+                    {{flight.origin}}</a>
+                </td>
+                <td><a ng-href="#/airports/{{flight.origin}}">
+                    {{flight.originFullName}}</a>
+                </td>
+                <td><a ng-href="#/airports/{{flight.destination}}">
+                    {{flight.destination}}</a>
+                </td>
+                <td><a ng-href="#/airports/{{flight.destination}}">
+                    {{flight.destinationFullName}}</a>
+                </td>
+            <td>{{flight.price | currency}}</td>
+        </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,644 @@
+[
+	{
+		"number": 121,
+		"origin": "ABD",
+		"destination": "THR",
+		"price": 280
+	},
+	{
+		"number": 222,
+		"origin": "ABD",
+		"destination": "SYZ",
+		"price": 180
+	},
+	{
+		"number": 165,
+		"origin": "ABD",
+		"destination": "MHD",
+		"price": 223
+	},
+	{
+		"number": 345,
+		"origin": "ABD",
+		"destination": "IFN",
+		"price": 205
+	},
+	{
+		"number": 323,
+		"origin": "AVZ",
+		"destination": "THR",
+		"price": 334
+	},
+	{
+		"number": 932,
+		"origin": "AVZ",
+		"destination": "SYZ",
+		"price": 179
+	},
+	{
+		"number": 545,
+		"origin": "AVZ",
+		"destination": "IFN",
+		"price": 234
+	},
+	{
+		"number": 897,
+		"origin": "AVZ",
+		"destination": "MHD",
+		"price": 320
+	},
+	{
+		"number": 362,
+		"origin": "AVZ",
+		"destination": "KHK",
+		"price": 216
+	},
+	{
+		"number": 472,
+		"origin": "AVZ",
+		"destination": "GSM",
+		"price": 187
+	},
+	{
+		"number": 690,
+		"origin": "AVZ",
+		"destination": "PGV",
+		"price": 229
+	},
+	{
+		"number": 821,
+		"origin": "AVZ",
+		"destination": "BND",
+		"price": 210
+	},
+	{
+		"number": 870,
+		"origin": "AVZ",
+		"destination": "KIH",
+		"price": 199
+	},
+	{
+		"number": 397,
+		"origin": "ADU",
+		"destination": "THR",
+		"price": 235
+	},
+	{
+		"number": 726,
+		"origin": "ADU",
+		"destination": "IFN",
+		"price": 288
+	},
+	{
+		"number": 632,
+		"origin": "ADU",
+		"destination": "MHD",
+		"price": 178
+	},
+	{
+		"number": 563,
+		"origin": "ADU",
+		"destination": "KIH",
+		"price": 189
+	},
+	{
+		"number": 959,
+		"origin": "PGV",
+		"destination": "THR",
+		"price": 261
+	},
+	{
+		"number": 421,
+		"origin": "PGV",
+		"destination": "SYZ",
+		"price": 215
+	},
+	{
+		"number": 187,
+		"origin": "PGV",
+		"destination": "IFN",
+		"price": 245
+	},
+	{
+		"number": 866,
+		"origin": "PGV",
+		"destination": "MHD",
+		"price": 240
+	},
+	{
+		"number": 922,
+		"origin": "PGV",
+		"destination": "AVZ",
+		"price": 295
+	},
+	{
+		"number": 178,
+		"origin": "BBL",
+		"destination": "THR",
+		"price": 191
+	},
+	{
+		"number": 66,
+		"origin": "BBL",
+		"destination": "IFN",
+		"price": 224
+	},
+	{
+		"number": 55,
+		"origin": "BBL",
+		"destination": "SYZ",
+		"price": 221
+	},
+	{
+		"number": 415,
+		"origin": "BND",
+		"destination": "THR",
+		"price": 233
+	},
+	{
+		"number": 98,
+		"origin": "BND",
+		"destination": "SYZ",
+		"price": 167
+	},
+	{
+		"number": 497,
+		"origin": "BND",
+		"destination": "MHD",
+		"price": 240
+	},
+	{
+		"number": 679,
+		"origin": "BND",
+		"destination": "AVZ",
+		"price": 210
+	},
+	{
+		"number": 477,
+		"origin": "BND",
+		"destination": "KIH",
+		"price": 234
+	},
+	{
+		"number": 240,
+		"origin": "BUZ",
+		"destination": "THR",
+		"price": 176
+	},
+	{
+		"number": 678,
+		"origin": "BUZ",
+		"destination": "SYZ",
+		"price": 178
+	},
+	{
+		"number": 399,
+		"origin": "BUZ",
+		"destination": "MHD",
+		"price": 161
+	},
+	{
+		"number": 701,
+		"origin": "ZBR",
+		"destination": "THR",
+		"price": 291
+	},
+	{
+		"number": 101,
+		"origin": "ZBR",
+		"destination": "MHD",
+		"price": 168
+	},
+	{
+		"number": 904,
+		"origin": "GBT",
+		"destination": "THR",
+		"price": 298
+	},
+	{
+		"number": 951,
+		"origin": "GBT",
+		"destination": "MHD",
+		"price": 233
+	},
+	{
+		"number": 95,
+		"origin": "IFN",
+		"destination": "THR",
+		"price": 188
+	},
+	{
+		"number": 302,
+		"origin": "IFN",
+		"destination": "MHD",
+		"price": 183
+	},
+	{
+		"number": 267,
+		"origin": "IFN",
+		"destination": "AVZ",
+		"price": 208
+	},
+	{
+		"number": 810,
+		"origin": "IFN",
+		"destination": "ABD",
+		"price": 294
+	},
+	{
+		"number": 788,
+		"origin": "IFN",
+		"destination": "ADU",
+		"price": 208
+	},
+	{
+		"number": 519,
+		"origin": "IFN",
+		"destination": "BBL",
+		"price": 292
+	},
+	{
+		"number": 680,
+		"origin": "IFN",
+		"destination": "PGV",
+		"price": 213
+	},
+	{
+		"number": 580,
+		"origin": "IFN",
+		"destination": "KHK",
+		"price": 280
+	},
+	{
+		"number": 764,
+		"origin": "IFN",
+		"destination": "KIH",
+		"price": 166
+	},
+	{
+		"number": 161,
+		"origin": "IFN",
+		"destination": "SRY",
+		"price": 245
+	},
+	{
+		"number": 601,
+		"origin": "KER",
+		"destination": "THR",
+		"price": 251
+	},
+	{
+		"number": 505,
+		"origin": "KER",
+		"destination": "MHD",
+		"price": 251
+	},
+	{
+		"number": 261,
+		"origin": "KER",
+		"destination": "KIH",
+		"price": 258
+	},
+	{
+		"number": 265,
+		"origin": "KHK",
+		"destination": "THR",
+		"price": 256
+	},
+	{
+		"number": 738,
+		"origin": "KHK",
+		"destination": "MHD",
+		"price": 241
+	},
+	{
+		"number": 217,
+		"origin": "KHK",
+		"destination": "SYZ",
+		"price": 243
+	},
+	{
+		"number": 380,
+		"origin": "KHK",
+		"destination": "IFN",
+		"price": 254
+	},
+	{
+		"number": 547,
+		"origin": "KIH",
+		"destination": "THR",
+		"price": 184
+	},
+	{
+		"number": 446,
+		"origin": "KIH",
+		"destination": "MHD",
+		"price": 297
+	},
+	{
+		"number": 839,
+		"origin": "KIH",
+		"destination": "SYZ",
+		"price": 215
+	},
+	{
+		"number": 303,
+		"origin": "KIH",
+		"destination": "IFN",
+		"price": 291
+	},
+	{
+		"number": 121,
+		"origin": "KIH",
+		"destination": "ADU",
+		"price": 197
+	},
+	{
+		"number": 456,
+		"origin": "KIH",
+		"destination": "AVZ",
+		"price": 262
+	},
+	{
+		"number": 932,
+		"origin": "KIH",
+		"destination": "KER",
+		"price": 179
+	},
+	{
+		"number": 132,
+		"origin": "MHD",
+		"destination": "KER",
+		"price": 279
+	},
+	{
+		"number": 934,
+		"origin": "MHD",
+		"destination": "THR",
+		"price": 139
+	},
+	{
+		"number": 432,
+		"origin": "MHD",
+		"destination": "IFN",
+		"price": 149
+	},
+	{
+		"number": 922,
+		"origin": "MHD",
+		"destination": "SYZ",
+		"price": 279
+	},
+	{
+		"number": 132,
+		"origin": "MHD",
+		"destination": "AVZ",
+		"price": 172
+	},
+	{
+		"number": 931,
+		"origin": "MHD",
+		"destination": "ADU",
+		"price": 171
+	},
+	{
+		"number": 832,
+		"origin": "MHD",
+		"destination": "ABD",
+		"price": 178
+	},
+	{
+		"number": 732,
+		"origin": "MHD",
+		"destination": "KIH",
+		"price": 177
+	},
+	{
+		"number": 654,
+		"origin": "MHD",
+		"destination": "KHK",
+		"price": 379
+	},
+	{
+		"number": 456,
+		"origin": "MHD",
+		"destination": "GBT",
+		"price": 379
+	},
+	{
+		"number": 131,
+		"origin": "MHD",
+		"destination": "ZBR",
+		"price": 111
+	},
+	{
+		"number": 562,
+		"origin": "MHD",
+		"destination": "BUZ",
+		"price": 169
+	},
+	{
+		"number": 992,
+		"origin": "MHD",
+		"destination": "BND",
+		"price": 189
+	},
+	{
+		"number": 999,
+		"origin": "MHD",
+		"destination": "PGV",
+		"price": 199
+	},
+	{
+		"number": 192,
+		"origin": "GSM",
+		"destination": "THR",
+		"price": 191
+	},
+	{
+		"number": 32,
+		"origin": "GSM",
+		"destination": "SYZ",
+		"price": 79
+	},
+	{
+		"number": 902,
+		"origin": "SRY",
+		"destination": "THR",
+		"price": 109
+	},
+	{
+		"number": 930,
+		"origin": "SRY",
+		"destination": "IFN",
+		"price": 170
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "KER",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "MHD",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "SYZ",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "IFN",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "AVZ",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "ABD",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "ADU",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "KHK",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "KIH",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "BND",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "SRY",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "GSM",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "GBT",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "ZBR",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "BUZ",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "BBL",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "THR",
+		"destination": "PGV",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "THR",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "MHD",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "AVZ",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "ABD",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "BND",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "GSM",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "KIH",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "KHK",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "BUZ",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "BBL",
+		"price": 179
+	},
+	{
+		"number": 932,
+		"origin": "SYZ",
+		"destination": "PGV",
+		"price": 179
+	}
+]
